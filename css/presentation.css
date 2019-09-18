@@ -34,3 +34,8 @@
 .twocol > * {
   flex: 1;
 }
+
+.reveal {
+  background-color: #013A6B;
+  background-image: -webkit-linear-gradient(45deg, #E08888 50%, #fafafa 50%);
+}
