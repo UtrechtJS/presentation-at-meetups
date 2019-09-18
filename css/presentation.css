@@ -39,3 +39,9 @@
   background-color: #013A6B;
   background-image: -webkit-linear-gradient(45deg, #E08888 50%, #fafafa 50%);
 }
+
+.img-grid img {
+  max-width: 20%;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
